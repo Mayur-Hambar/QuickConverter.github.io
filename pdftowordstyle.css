@@ -1,0 +1,62 @@
+.head
+{
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 35%;
+    top: 3%;
+    font-size: 50px;
+    font-family: 'Lucida Handwriting';
+    color: rgb(96, 31, 31);
+}
+.ptw
+{
+    position: absolute;
+    left: 30%;
+    top: 65%;
+}
+#pimg
+{
+    margin-left: 420px;
+    margin-top: 200px;
+}
+#wimg
+{
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.arrow1
+{
+    position: absolute;
+    left: 48%;
+    top: 45%;
+    font-size: 75px;
+    color: rgb(19, 19, 86);
+}
+.dbtn .down
+{
+    height: 30px;
+    width: 100px;
+    border-radius: 10%;
+    font-size: 18px;
+    background-color: rgb(12, 12, 232);
+    color: white;
+    border: none;
+    position: absolute;
+    left: 63%;
+    top: 64%;
+}
+.text
+{
+    font-size: 20px;
+    font-family: cursive;
+    position: absolute;
+    top: 75%;
+    left: 32%;
+}
+.text li
+{
+    font-size: 17px;
+    font-family: cursive;
+    
+}

@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>Quick Converter</title>
+        <link rel="stylesheet" href="loginstyle.css">
+        <link rel="icon" href="qcx..jpg" type="image/icon type">
+
+        <script>
+            let mail = document.getElementById('mail');
+            let pass = document.getElementById('pass');
+
+            if(mail=='rlsbca@123' && pass=='rlsbca')
+            {
+                alert("Login Successful")
+            }
+        </script>
+    </head>
+    <body>
+        <h1 class="head">Quick Converter</h1>
+
+        <form action="home.html">
+            <fieldset class="outborder">
+                <center><img src="qcx..jpg" height="80px" width="80px"></center>
+                <br><br><h2 class="head2">Log In</h2>
+            <fieldset class="inborder1">
+                <legend class="ml">Mail-ID</legend>
+                <input type="email" name="mail" required class="em" id="mail"><br>
+            </fieldset>   
+            <fieldset class="inborder2">
+                <legend class="ps">Password</legend>
+                <input type="password" name="pass" required class="pw" id="pass"><br>
+            </fieldset>
+            <a class="fp" href="forgotpass.html">Forgot Password?</a>
+            <input type="submit" value="Login" class="btn">
+            <br><br><br>
+            <form action="account.html">
+            <a class="acc" href="account.html">Create Account!</a>
+            </form>
+            </fieldset>
+            <p>Terms of Use</p>
+        </form>
+    </body>
+</html>

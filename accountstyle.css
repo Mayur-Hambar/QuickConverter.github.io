@@ -1,0 +1,59 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+h2
+{
+    margin-left: 720px;
+    margin-top: 50px;
+    color: rgb(112, 32, 32);
+}
+table
+{
+    margin-left: 70px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+th
+{
+    font-family: cursive;
+    color: rgb(139, 31, 31);
+}
+.cbtn
+{
+    height: 30px;
+    width: 130px;
+    margin-left: 140px;
+    color: rgb(255, 254, 254);
+    background-color: rgb(89, 28, 28);
+}
+.fname
+{
+    font-size: 18px;
+    border: none;
+    border-bottom: 1px solid rgb(89, 28, 28);
+    box-sizing: none;
+    margin-left: 50px;
+}
+fieldset
+{
+    margin-left: 480px;
+    margin-right: 450px;
+    border-radius: 10%
+}
+.fa-regular fa-user
+{
+    size: 150px;
+}
+img
+{
+    height: 150px;
+    width: 150px;
+    margin-left: 700px;
+}
+.fa-solid fa-eye
+{
+    margin-right: 30px;
+    cursor: pointer;
+    color: rgb(104, 36, 36);
+}
